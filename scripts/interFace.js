@@ -19,7 +19,7 @@ function handleClick(event){
     if(handleMove(postion)) {
 
             setTimeout(() => {
-                alert(" O Jogo Acabou, O vencedor da vez foi: " + playerTime )
+                alert(" O Jogo Acabou, Parabens jogador!!: " + playerTime )
             }, 10)
             
     }
